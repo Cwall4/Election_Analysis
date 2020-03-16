@@ -29,4 +29,7 @@ The analysis of the election show that:
   
   ## Challenge Overview
   
+- Added code to tally county vote count, display percentages and indicate highest turnout county.
+  
   ## Challenge Summary
+- Denver was tallied as the highest turnout county, with ~82.8% of the votes.
